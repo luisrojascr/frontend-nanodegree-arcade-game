@@ -13,4 +13,6 @@ Instructions:
 - Play with the keyboard up, down, left and right.
 - If a bug hits you, you start over.
 
+Online demo: http://www.luisrojascr.com/lab/frogger-game 
+
 See guide here: [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
